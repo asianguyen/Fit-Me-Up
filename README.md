@@ -11,7 +11,7 @@ https://github.com/asianguyen/Fit-Me-Up.git
 
 We are a group of Sophomores at Brown University passionate about clothing sustainability and style! Our contributions to this project totalled approximately 200 hours. 
 #### Asia Nguyen (atnguyen):
-Front end styling and functionality, 
+Front end styling and functionality, clothing generation, closet formatting, saved outfit functionality
 
 #### Eleanor Park (enpark):
 Front end component structuring, clothing and outfit functionality, browser zoom formatting, accessibility, and front-end styling.
